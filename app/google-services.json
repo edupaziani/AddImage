@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605341278129",
+    "project_id": "upload-teste-fb2af",
+    "storage_bucket": "upload-teste-fb2af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605341278129:android:4581726a6338f220456790",
+        "android_client_info": {
+          "package_name": "com.example.addfiletest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0QS5v087y1bNTuRSk5Zhr7ogCCwpPMxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
